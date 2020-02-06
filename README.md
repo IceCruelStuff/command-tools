@@ -1,2 +1,2 @@
 # command-tools
-command-line tools for Windows 10. Small command-line tools to run
+These are simple command-line scripts to run on Windows 10
